@@ -25,7 +25,7 @@ public class AvatarOne implements Avatar
 		
 		try 
 		{
-			image = ImageIO.read(new File("BB8.png"));
+			image = ImageIO.read(new File("src/BB8.png"));
 		} 
 		catch (IOException e) 
 		{

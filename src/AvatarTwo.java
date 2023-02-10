@@ -25,7 +25,7 @@ public class AvatarTwo implements Avatar
 		
 		try 
 		{
-			image = ImageIO.read(new File("R2D2.png"));
+			image = ImageIO.read(new File("src/R2D2.png"));
 		} 
 		catch (IOException e) 
 		{

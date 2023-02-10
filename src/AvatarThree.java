@@ -25,7 +25,7 @@ public class AvatarThree implements Avatar
 		
 		try 
 		{
-			image = ImageIO.read(new File("C3P0.png"));
+			image = ImageIO.read(new File("src/C3P0.png"));
 		} 
 		catch (IOException e) 
 		{
